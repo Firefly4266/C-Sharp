@@ -1,0 +1,1 @@
+C:\OIC\NUnitCs\Chap01\QueueLib\NoDequeue\QueueLib\obj\Debug\QueueLib.csprojResolveAssemblyReference.cache

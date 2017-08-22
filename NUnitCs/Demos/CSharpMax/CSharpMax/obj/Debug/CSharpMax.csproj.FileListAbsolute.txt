@@ -1,0 +1,1 @@
+C:\OIC\NUnitCs\Demos\CSharpMax\CSharpMax\obj\Debug\CSharpMax.csprojResolveAssemblyReference.cache

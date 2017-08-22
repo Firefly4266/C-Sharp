@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Chap10\EchoArguments\bin\Debug\EchoArguments.exe
+D:\OIC\CSharp\Chap10\EchoArguments\bin\Debug\EchoArguments.pdb
+D:\OIC\CSharp\Chap10\EchoArguments\obj\Debug\EchoArguments.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Chap10\EchoArguments\obj\Debug\EchoArguments.exe
+D:\OIC\CSharp\Chap10\EchoArguments\obj\Debug\EchoArguments.pdb

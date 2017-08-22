@@ -1,0 +1,6 @@
+D:\OIC\CSharp\Chap11\RectangularArray\bin\Debug\RectangularArray.exe
+D:\OIC\CSharp\Chap11\RectangularArray\bin\Debug\RectangularArray.pdb
+D:\OIC\CSharp\Chap11\RectangularArray\obj\Debug\RectangularArray.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Chap11\RectangularArray\obj\Debug\RectangularArray.csproj.CoreCompileInputs.cache
+D:\OIC\CSharp\Chap11\RectangularArray\obj\Debug\RectangularArray.exe
+D:\OIC\CSharp\Chap11\RectangularArray\obj\Debug\RectangularArray.pdb

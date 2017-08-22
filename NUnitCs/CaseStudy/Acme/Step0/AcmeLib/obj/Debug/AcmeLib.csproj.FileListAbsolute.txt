@@ -1,0 +1,5 @@
+C:\OIC\NUnitCs\CaseStudy\Acme\Step0\AcmeLib\bin\Debug\AcmeLib.dll
+C:\OIC\NUnitCs\CaseStudy\Acme\Step0\AcmeLib\bin\Debug\AcmeLib.pdb
+C:\OIC\NUnitCs\CaseStudy\Acme\Step0\AcmeLib\obj\Debug\AcmeLib.csprojResolveAssemblyReference.cache
+C:\OIC\NUnitCs\CaseStudy\Acme\Step0\AcmeLib\obj\Debug\AcmeLib.dll
+C:\OIC\NUnitCs\CaseStudy\Acme\Step0\AcmeLib\obj\Debug\AcmeLib.pdb

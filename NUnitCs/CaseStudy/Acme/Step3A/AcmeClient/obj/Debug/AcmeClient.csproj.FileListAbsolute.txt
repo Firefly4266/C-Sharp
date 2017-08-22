@@ -1,0 +1,10 @@
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\bin\Debug\AcmeClient.exe.config
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\bin\Debug\AcmeClient.exe
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\bin\Debug\AcmeClient.pdb
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\bin\Debug\AcmeLib.dll
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\bin\Debug\AcmeLib.pdb
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\obj\Debug\AcmeClient.csprojResolveAssemblyReference.cache
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\obj\Debug\AcmeClient.Properties.Resources.resources
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\obj\Debug\AcmeClient.csproj.GenerateResource.Cache
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\obj\Debug\AcmeClient.exe
+C:\OIC\NUnitCs\CaseStudy\Acme\Step3A\AcmeClient\obj\Debug\AcmeClient.pdb

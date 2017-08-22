@@ -1,0 +1,4 @@
+D:\OIC\CSharp\Chap05\BreakSearch\bin\Debug\BreakSearch.exe
+D:\OIC\CSharp\Chap05\BreakSearch\bin\Debug\BreakSearch.pdb
+D:\OIC\CSharp\Chap05\BreakSearch\obj\Debug\BreakSearch.exe
+D:\OIC\CSharp\Chap05\BreakSearch\obj\Debug\BreakSearch.pdb

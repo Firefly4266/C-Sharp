@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Chap11\ArrayDemo\bin\Debug\ArrayDemo.exe
+D:\OIC\CSharp\Chap11\ArrayDemo\bin\Debug\ArrayDemo.pdb
+D:\OIC\CSharp\Chap11\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\OIC\CSharp\Chap11\ArrayDemo\obj\Debug\ArrayDemo.exe
+D:\OIC\CSharp\Chap11\ArrayDemo\obj\Debug\ArrayDemo.pdb

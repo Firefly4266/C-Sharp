@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Labs\Lab4\MortgagePayment\bin\Debug\MortgagePayment.exe
+D:\OIC\CSharp\Labs\Lab4\MortgagePayment\bin\Debug\MortgagePayment.pdb
+D:\OIC\CSharp\Labs\Lab4\MortgagePayment\obj\Debug\MortgagePayment.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Labs\Lab4\MortgagePayment\obj\Debug\MortgagePayment.exe
+D:\OIC\CSharp\Labs\Lab4\MortgagePayment\obj\Debug\MortgagePayment.pdb

@@ -1,0 +1,5 @@
+C:\OIC\NUnitCs\Demos\QueueLib\QueueLib\bin\Debug\QueueLib.dll
+C:\OIC\NUnitCs\Demos\QueueLib\QueueLib\bin\Debug\QueueLib.pdb
+C:\OIC\NUnitCs\Demos\QueueLib\QueueLib\obj\Debug\QueueLib.csprojResolveAssemblyReference.cache
+C:\OIC\NUnitCs\Demos\QueueLib\QueueLib\obj\Debug\QueueLib.dll
+C:\OIC\NUnitCs\Demos\QueueLib\QueueLib\obj\Debug\QueueLib.pdb

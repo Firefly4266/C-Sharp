@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Labs\Lab9A\TestSimpleMath\bin\Debug\TestSimpleMath.exe
+D:\OIC\CSharp\Labs\Lab9A\TestSimpleMath\bin\Debug\TestSimpleMath.pdb
+D:\OIC\CSharp\Labs\Lab9A\TestSimpleMath\obj\Debug\TestSimpleMath.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Labs\Lab9A\TestSimpleMath\obj\Debug\TestSimpleMath.exe
+D:\OIC\CSharp\Labs\Lab9A\TestSimpleMath\obj\Debug\TestSimpleMath.pdb

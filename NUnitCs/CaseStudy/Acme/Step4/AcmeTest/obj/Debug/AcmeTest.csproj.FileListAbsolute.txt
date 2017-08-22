@@ -1,0 +1,1 @@
+C:\OIC\NUnitCs\CaseStudy\Acme\Step4\AcmeTest\obj\Debug\AcmeTest.csprojResolveAssemblyReference.cache

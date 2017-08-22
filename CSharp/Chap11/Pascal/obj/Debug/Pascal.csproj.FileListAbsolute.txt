@@ -1,0 +1,6 @@
+D:\OIC\CSharp\Chap11\Pascal\bin\Debug\Pascal.exe
+D:\OIC\CSharp\Chap11\Pascal\bin\Debug\Pascal.pdb
+D:\OIC\CSharp\Chap11\Pascal\obj\Debug\Pascal.csproj.CoreCompileInputs.cache
+D:\OIC\CSharp\Chap11\Pascal\obj\Debug\Pascal.exe
+D:\OIC\CSharp\Chap11\Pascal\obj\Debug\Pascal.pdb
+D:\OIC\CSharp\Chap11\Pascal\obj\Debug\Pascal.csprojResolveAssemblyReference.cache

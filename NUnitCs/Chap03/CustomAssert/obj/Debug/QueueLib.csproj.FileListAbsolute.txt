@@ -1,0 +1,1 @@
+C:\OIC\NUnitCs\Chap03\CustomAssert\obj\Debug\QueueLib.csprojResolveAssemblyReference.cache

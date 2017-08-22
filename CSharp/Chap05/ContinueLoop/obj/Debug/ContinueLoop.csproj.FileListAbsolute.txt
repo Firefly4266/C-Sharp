@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Chap05\ContinueLoop\bin\Debug\ContinueLoop.exe
+D:\OIC\CSharp\Chap05\ContinueLoop\bin\Debug\ContinueLoop.pdb
+D:\OIC\CSharp\Chap05\ContinueLoop\obj\Debug\ContinueLoop.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Chap05\ContinueLoop\obj\Debug\ContinueLoop.exe
+D:\OIC\CSharp\Chap05\ContinueLoop\obj\Debug\ContinueLoop.pdb

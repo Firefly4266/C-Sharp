@@ -1,0 +1,4 @@
+D:\OIC\CSharp\Chap04\Multiply\bin\Debug\Multiply.exe
+D:\OIC\CSharp\Chap04\Multiply\bin\Debug\Multiply.pdb
+D:\OIC\CSharp\Chap04\Multiply\obj\Debug\Multiply.exe
+D:\OIC\CSharp\Chap04\Multiply\obj\Debug\Multiply.pdb

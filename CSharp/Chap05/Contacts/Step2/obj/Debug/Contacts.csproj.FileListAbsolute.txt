@@ -1,0 +1,4 @@
+D:\OIC\CSharp\Chap05\Contacts\Step2\bin\Debug\Contacts.exe
+D:\OIC\CSharp\Chap05\Contacts\Step2\bin\Debug\Contacts.pdb
+D:\OIC\CSharp\Chap05\Contacts\Step2\obj\Debug\Contacts.exe
+D:\OIC\CSharp\Chap05\Contacts\Step2\obj\Debug\Contacts.pdb

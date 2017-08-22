@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Labs\Lab5\Contacts\Contacts\bin\Debug\Contacts.exe.config
+D:\OIC\CSharp\Labs\Lab5\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\OIC\CSharp\Labs\Lab5\Contacts\Contacts\bin\Debug\Contacts.pdb
+D:\OIC\CSharp\Labs\Lab5\Contacts\Contacts\obj\Debug\Contacts.exe
+D:\OIC\CSharp\Labs\Lab5\Contacts\Contacts\obj\Debug\Contacts.pdb

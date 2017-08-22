@@ -1,0 +1,10 @@
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\bin\Debug\AcmeClient.exe.config
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\bin\Debug\AcmeClient.exe
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\bin\Debug\AcmeClient.pdb
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\bin\Debug\AcmeLib.dll
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\bin\Debug\AcmeLib.pdb
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\obj\Debug\AcmeClient.csprojResolveAssemblyReference.cache
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\obj\Debug\AcmeClient.Properties.Resources.resources
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\obj\Debug\AcmeClient.csproj.GenerateResource.Cache
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\obj\Debug\AcmeClient.exe
+C:\OIC\NUnitCs\Labs\Lab2B\AcmeClient\obj\Debug\AcmeClient.pdb

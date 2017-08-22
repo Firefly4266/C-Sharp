@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Chap08\HotelClassArray\bin\Debug\TestHotel.exe
+D:\OIC\CSharp\Chap08\HotelClassArray\bin\Debug\TestHotel.pdb
+D:\OIC\CSharp\Chap08\HotelClassArray\obj\Debug\TestHotel.csproj.CoreCompileInputs.cache
+D:\OIC\CSharp\Chap08\HotelClassArray\obj\Debug\TestHotel.exe
+D:\OIC\CSharp\Chap08\HotelClassArray\obj\Debug\TestHotel.pdb

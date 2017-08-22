@@ -1,0 +1,4 @@
+D:\OIC\CSharp\Chap04\Ira\bin\Debug\Ira.exe
+D:\OIC\CSharp\Chap04\Ira\bin\Debug\Ira.pdb
+D:\OIC\CSharp\Chap04\Ira\obj\Debug\Ira.exe
+D:\OIC\CSharp\Chap04\Ira\obj\Debug\Ira.pdb

@@ -1,0 +1,5 @@
+D:\OIC\CSharp\Chap05\ForUp\bin\Debug\ForUp.exe
+D:\OIC\CSharp\Chap05\ForUp\bin\Debug\ForUp.pdb
+D:\OIC\CSharp\Chap05\ForUp\obj\Debug\ForUp.csprojResolveAssemblyReference.cache
+D:\OIC\CSharp\Chap05\ForUp\obj\Debug\ForUp.exe
+D:\OIC\CSharp\Chap05\ForUp\obj\Debug\ForUp.pdb
